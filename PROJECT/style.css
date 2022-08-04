@@ -1,0 +1,112 @@
+body
+{
+    background-color: rgb(246, 246, 246);
+    margin: 0;
+}
+
+
+.task
+{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+background-color: rgb(255, 254, 253);
+width:100%;
+margin-right: 10px;
+border: 10px;
+font-size: 50px;
+padding-left: 180px;
+padding-top: 5px;
+box-shadow: 0px 0px 100px rgb(209, 209, 209);
+}
+.add
+{
+    padding-top: 40px;
+    padding-left: 73%;
+    font-size: large;
+    width:100%;
+}
+.t0
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(3, 175, 227);
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 50%;
+}
+
+.fl1
+{
+    display: flex;
+}
+.paris
+{
+    background-color:white;
+    border-color: rgb(229, 228, 228);
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 180px;
+    width: 352px;
+    height: 360px;
+    border-style: solid;
+    box-shadow: 4px 4px 20px rgb(209, 209, 209);
+}
+.mtdl
+{
+    background-color:white;
+    border-color: rgb(229, 228, 228);
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 352px;
+    height: 360px;
+    border-style: solid;
+    box-shadow: 4px 4px 20px rgb(209, 209, 209);
+}
+.miw
+{
+    background-color:white;
+    border-color: rgb(229, 228, 228);
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 352px;
+    height: 360px;
+    border-style: solid;
+    box-shadow: 4px 4px 20px rgb(209, 209, 209);
+}
+
+.fl2
+{
+    display: flex;
+}
+.dmr
+{
+    background-color:white;
+    border-color: rgb(229, 228, 228);
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 180px;
+    width: 352px;
+    height: 360px;
+    border-style: solid;
+    box-shadow: 4px 4px 20px rgb(209, 209, 209);
+}
+.br
+{
+    background-color:white;
+    border-color: rgb(229, 228, 228);
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 352px;
+    height: 360px;
+    border-style: solid;
+    box-shadow: 4px 4px 20px rgb(209, 209, 209);
+}
+
+.lay1
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
